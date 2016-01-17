@@ -1,6 +1,6 @@
 name             'wrapper-iis'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'okram999'
+maintainer_email 'nirish.okram@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures wrapper-iis'
 long_description 'Installs/Configures wrapper-iis'
